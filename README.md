@@ -1,10 +1,4 @@
 # prizepicks-files
-**.xlsx Files** - 
-The Excel Files are a CFB Rushing and Passing Report that use strictly PFF Play by Play data to filter, join, and sort.
-Rushing Chart will show a teams efficency and run frequency in certain gaps, the data is updated in the two tabs with two SQL queries upon the completion of a new game week.
-The Passing stats are for QBs and how they preform in different scenarios. Only Week 1 Playing QBs are in right now as I have not needed to look at any teams backup.
-These two showcase how I use SQL to create a visualization that can be updated for a new week in minutes and displayed for any team. 
-Individual SQL queries are not linked as the file of play data is pretty heavy, I would be happy to go through all the databases and queries I use through a screen share.
 
 **Python & CSV File** - 
 The python and csv files are a recruiting tool I created to tackle the problem of how good a player is for their size.
